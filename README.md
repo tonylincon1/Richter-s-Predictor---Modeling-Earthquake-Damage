@@ -1,0 +1,2 @@
+# Richter's Predictor - Modeling Earthquake Damage
+Com base em aspectos de localização e construção de edifícios, o objetivo do desafio é prever o nível de danos aos edifícios causados ​​pelo terremoto de Gorkha em 2015 no Nepal.
